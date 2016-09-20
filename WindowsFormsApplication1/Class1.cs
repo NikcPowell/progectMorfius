@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class Funcsions 
+   public class Funcsions 
     {
         public double Summa(Double number1, Double number2)
         {

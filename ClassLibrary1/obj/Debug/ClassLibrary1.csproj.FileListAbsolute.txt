@@ -1,0 +1,9 @@
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\nunit.framework.dll
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\WindowsFormsApplication1.exe
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\nunit.framework.xml
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Uviversity\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
