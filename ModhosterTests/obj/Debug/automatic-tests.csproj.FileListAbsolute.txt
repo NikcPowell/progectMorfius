@@ -1,0 +1,16 @@
+D:\University\automatic-tests\bin\Debug\img\images.jpg
+D:\University\automatic-tests\bin\Debug\automatic-tests.dll
+D:\University\automatic-tests\bin\Debug\automatic-tests.pdb
+D:\University\automatic-tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\University\automatic-tests\bin\Debug\nunit.framework.dll
+D:\University\automatic-tests\bin\Debug\WebDriver.dll
+D:\University\automatic-tests\bin\Debug\WebDriver.Support.dll
+D:\University\automatic-tests\bin\Debug\nunit.framework.xml
+D:\University\automatic-tests\bin\Debug\WebDriver.xml
+D:\University\automatic-tests\bin\Debug\WebDriver.Support.xml
+D:\University\automatic-tests\obj\Debug\automatic-tests.csprojResolveAssemblyReference.cache
+D:\University\automatic-tests\obj\Debug\automatic-tests.dll
+D:\University\automatic-tests\obj\Debug\automatic-tests.pdb
+D:\University\automatic-tests\bin\Debug\nunit.framework.testcasestorage.dll
+D:\University\automatic-tests\bin\Debug\nunit.framework.testcasestorage.pdb
+D:\University\automatic-tests\bin\Debug\MicrosoftWebDriver.exe
